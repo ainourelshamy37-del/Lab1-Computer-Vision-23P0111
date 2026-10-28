@@ -1,0 +1,7 @@
+OpenCV: 4.13.0
+NumPy: 2.3.5
+Task 1 PASS: {'size': (300, 300, 3), 'red_pixel_pct': 70.1711111111111}
+Task 2 PASS: {'aligned_size': (313, 425, 3), 'alpha_values': [0.25, 0.5, 0.75]}
+Task 3 PASS: {'size': (480, 853, 3), 'radius_pixels': 254, 'sigma_pixels': 65}
+Task 4 PASS: {'mean_abs_zebra_change': 1.407920816889056, 'swapped_order': 'B,R,G'}
+All four tasks completed. Files saved in /mnt/data/Lab1_Computer_Vision_23P0111/outputs
